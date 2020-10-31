@@ -27,7 +27,7 @@ This project brings to users a light, elegant and efficient laptop recommendatio
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<video src="./Video/IRS-PM-2020-10-30-IS02FT-GRP10-LAPTOP4YOU.mp4" controls="controls" width="854" height="480">
+<video src="https://github.com/jacey-wjx/IRS-PM-2020-10-30-IS02FT-GRP10-LAPTOP4YOU/blob/master/Video/IRS-PM-2020-10-30-IS02FT-GRP10-LAPTOP4YOU.mp4" controls="controls" width="854" height="480">
 您的浏览器不支持播放该视频！
 </video>
 
