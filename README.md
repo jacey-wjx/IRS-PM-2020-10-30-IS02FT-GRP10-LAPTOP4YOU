@@ -1,7 +1,7 @@
 ﻿## SECTION 1 : PROJECT TITLE
 ## LAPTOP4YOU - Laptops Recommender System
 
-<img src="Miscellaneous/home.png"
+<img src="Miscellaneous/home.jpg"
      style="float: left; margin-right: 0px;" />
 
 ---
