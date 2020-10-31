@@ -2,7 +2,7 @@
 ## LAPTOP4YOU - Laptops Recommender System
 
 <img src="Miscellaneous/home.jpg"
-     style="float: left; margin-right: 0px;" />
+     style="float: left; margin-right: 0px;" height="585" width="270"/>
 
 ---
 
@@ -27,8 +27,10 @@ This project brings to users a light, elegant and efficient laptop recommendatio
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<video src="Video/IRS-PM-2020-10-30-IS02FT-GRP10-LAPTOP4YOU.mp4" controls="controls" width="480" height="270">您的浏览器不支持播放该视频！</video>
-
+<iframe 
+    width="640" 
+    height="498" 
+    src="Video/IRS-PM-2020-10-30-IS02FT-GRP10-LAPTOP4YOU.mp4"></iframe>
 ---
 
 ## SECTION 5 : USER GUIDE
