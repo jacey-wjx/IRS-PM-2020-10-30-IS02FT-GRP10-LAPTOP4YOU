@@ -26,12 +26,10 @@ This project brings to users a light, elegant and efficient laptop recommendatio
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-<iframe 
-    width="854" 
-    height="480" 
-    src="//player.bilibili.com/player.html?aid=16688970&cid=27215876&page=1" >
-    暂时不支持视频插入。
-</iframe>
+
+<video src="./Video/IRS-PM-2020-10-30-IS02FT-GRP10-LAPTOP4YOU.mp4" controls="controls" width="854" height="480">
+您的浏览器不支持播放该视频！
+</video>
 
 ---
 
